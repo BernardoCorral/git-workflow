@@ -35,7 +35,10 @@ O projeto seguiu o **Gitflow Workflow**, simulando um time que constrói e lanç
 - Logo após o lançamento, foi necessário aplicar um **hotfix**, resultando na versão `v1.01`.  
 - Novas features foram desenvolvidas em paralelo utilizando **branches e rebases**.  
 
-![Fluxo do Projeto Final](docs/final_project.png)
+Abaixo está o grafo de commits do projeto final do curso *Version Control with Git* (Coursera), demonstrando o uso de branches, merges, rebases e hotfixes no fluxo Gitflow:
+
+![Fluxo do Projeto](docs/final_project.png)
+
 
 ---
 
