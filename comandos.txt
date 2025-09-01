@@ -1,0 +1,13 @@
+# Principais comandos usados no projeto
+
+git init
+git status
+git add .
+git commit -m "mensagem"
+git branch feature-x
+git checkout feature-x
+git merge main
+git rebase main
+git log --oneline --graph
+git tag v1.0
+git push origin main
