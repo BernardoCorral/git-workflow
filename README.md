@@ -30,14 +30,25 @@ Este repositório contém:
 ---
 
 ## 📊 Fluxo do Projeto Final
-O projeto seguiu o **Gitflow Workflow**, simulando um time que constrói e lança um produto.  
+
+O projeto seguiu o **Gitflow Workflow**, simulando um time que constrói e lança um produto.
+
 - A versão `v1.00` foi criada com uma primeira feature.  
 - Logo após o lançamento, foi necessário aplicar um **hotfix**, resultando na versão `v1.01`.  
-- Novas features foram desenvolvidas em paralelo utilizando **branches e rebases**.  
+- Novas features foram desenvolvidas em paralelo utilizando **branches** e **rebases**.  
 
-Abaixo está o grafo de commits do projeto final do curso *Version Control with Git* (Coursera), demonstrando o uso de branches, merges, rebases e hotfixes no fluxo Gitflow:
+### 🔹 Fluxo Proposto (enunciado do projeto)
 
-![Fluxo do Projeto](docs/final_project.png)
+Imagem retirada do enunciado do curso **Version Control with Git (Coursera)**, demonstrando o fluxo de branches e commits a ser seguido:
+
+![Fluxo Proposto](docs/final_project.png)
+
+### 🔹 Fluxo Executado (meu repositório)
+
+Gráfico de commits gerado no **Git Bash** com o comando `git log --oneline --graph --all`, confirmando a execução prática do fluxo Gitflow:
+
+![Fluxo Executado](docs/git_log.png)
+
 
 
 ---
